@@ -1,5 +1,8 @@
 # 🏷️ amazon-price-prediction-llm-deep-neural-network
 
+![amazon-price-prediction-llm-deep-neural-network](https://drive.google.com/uc?export=view&id=1CUOE961suxK0rUbXkwlWf7TpDrrJRxGs)
+
+
 > **English version below** / Version française ci-dessus
 
 ---
