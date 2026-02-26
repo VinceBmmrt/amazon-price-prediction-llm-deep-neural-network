@@ -1,4 +1,4 @@
-# 🏷️ Amazon Price Predictor — Hybrid LLM × Deep Neural Network Pipeline
+# 🏷️ Amazon Price Predictor Fine Tuning LLM and Deep-Neural Network-Pipeline
 
 ## 📊 Model Performance Comparison
 
