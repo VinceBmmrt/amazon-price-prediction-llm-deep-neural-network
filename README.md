@@ -1,4 +1,4 @@
-# 🏷️ Amazon Price Predictor Fine Tuning LLM and Deep-Neural Network-Pipeline
+# 🏷️ Amazon Price Predictor — Fine Tuning LLM + Deep Neural Network Pipeline
 
 ## 📊 Model Performance Comparison
 
@@ -7,6 +7,14 @@
 ## 📈 Fine-Tuning Training (Weights & Biases)
 
 ![WandB Training](graph/wandb%20finetuning%20training%20screenshot.png)
+
+## 🦙 LLaMA 3.2 Fine-Tuned – Prediction Error
+
+![LLaMA Error](graph/LLama3.2%20fine%20tuned%20predict%20error.png)
+
+## 🦙 LLaMA 3.2 Fine-Tuned – Results
+
+![LLaMA Results](graph/LLama3.2%20fine%20tuned%20results.png)
 
 LLaMA 3.2 fine-tuné sur le dataset complet ($39.85) bat GPT-5.1 ($44.74), Claude 4.5 Sonnet ($47.10) et tous les modèles frontier testés — sans accès aux poids propriétaires, uniquement grâce à la spécialisation sur les données Amazon.
 
